@@ -9,7 +9,7 @@ public class class1 {
 	
 	private void mtd2() {
 
-		System.out.println("12345");
+		System.out.println("balaji");
 	}
 	
 	
@@ -23,7 +23,8 @@ public class class1 {
 		class1 c = new class1();
 		
 		c.mtd1();
-		c.mtd2();
+		
+
 		
 		
 	}
